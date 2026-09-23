@@ -17,3 +17,7 @@ Independent project — 508-row retail transaction dataset across multiple branc
 
 ## Tools
 Excel (VLOOKUP, INDEX-MATCH, SUMIFS/COUNTIFS, Pivot Tables, structured references)
+
+## Screenshots
+![Pivot table view](Screenshot%202026-09-23%20193140.png)
+![Analysis view](Screenshot%202026-09-23%20193158.png)
